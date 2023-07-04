@@ -1,1 +1,1 @@
-# Othello_SFML
+自身の環境にあわせて、CMakeLists.txt を書き換えてください。
